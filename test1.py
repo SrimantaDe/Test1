@@ -2,4 +2,5 @@ def fun(name):
     print(name)
 
 n=input()
-fun(n)
+m=input()
+fun(m)
